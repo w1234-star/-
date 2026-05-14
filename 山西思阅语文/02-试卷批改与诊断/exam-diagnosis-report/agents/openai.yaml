@@ -1,0 +1,4 @@
+interface:
+  display_name: "试卷诊断报告"
+  short_description: "整理批注试卷扣分题型、重点错因、复习计划和经验总结。"
+  default_prompt: "请使用 $exam-diagnosis-report，根据学生试卷、原卷、评分标准和样例报告生成统一格式的试卷诊断报告；如果试卷未批注评分，先完成批注点评流程再出报告。"
