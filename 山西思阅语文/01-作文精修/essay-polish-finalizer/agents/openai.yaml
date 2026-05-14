@@ -1,0 +1,4 @@
+interface:
+  display_name: "作文精修定稿"
+  short_description: "按样例生成带原文批注定稿和套作思路的作文精修Word"
+  default_prompt: "Use $essay-polish-finalizer to turn the provided student essay into a polished Word revision file."
