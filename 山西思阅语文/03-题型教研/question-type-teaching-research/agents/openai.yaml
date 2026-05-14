@@ -1,0 +1,4 @@
+interface:
+  display_name: "题型教研整理"
+  short_description: "语文优先的题型教研教师版和学生版产出"
+  default_prompt: "Use $question-type-teaching-research to turn this 待教研课件 into matched 教师版 and 学生版 Word documents."
